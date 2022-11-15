@@ -1,0 +1,11 @@
+C:\Users\PSCAD\Desktop\fraction\fraction\fraction\bin\Debug\fraction.exe.config
+C:\Users\PSCAD\Desktop\fraction\fraction\fraction\bin\Debug\fraction.exe
+C:\Users\PSCAD\Desktop\fraction\fraction\fraction\bin\Debug\fraction.pdb
+C:\Users\PSCAD\Desktop\fraction\fraction\fraction\obj\Debug\fraction.csproj.AssemblyReference.cache
+C:\Users\PSCAD\Desktop\fraction\fraction\fraction\obj\Debug\fraction.csproj.SuggestedBindingRedirects.cache
+C:\Users\PSCAD\Desktop\fraction\fraction\fraction\obj\Debug\fraction.Fraction.resources
+C:\Users\PSCAD\Desktop\fraction\fraction\fraction\obj\Debug\fraction.Properties.Resources.resources
+C:\Users\PSCAD\Desktop\fraction\fraction\fraction\obj\Debug\fraction.csproj.GenerateResource.cache
+C:\Users\PSCAD\Desktop\fraction\fraction\fraction\obj\Debug\fraction.csproj.CoreCompileInputs.cache
+C:\Users\PSCAD\Desktop\fraction\fraction\fraction\obj\Debug\fraction.exe
+C:\Users\PSCAD\Desktop\fraction\fraction\fraction\obj\Debug\fraction.pdb
